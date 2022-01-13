@@ -1,6 +1,10 @@
 # Data Structures and Algorithms Study
 Data Structures and Algorithms
 
+# Arrays
+- Single Pointer
+
+
 Bubble Sort
 
 Improved Bubble Sort
@@ -21,7 +25,7 @@ Preparation Roadmap
 The Interview Process
 Program 1: Algorithm + Coding
 Arrays
-Single Pointer
+- Single Pointer
 Two Pointers - Brute Force
 Two Pointers - Same End
 Two Pointers - Different Ends

@@ -1,0 +1,14 @@
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\01_Console_Big_O\bin\Debug\netcoreapp3.1\01_Console_Big_O.exe
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\01_Console_Big_O\bin\Debug\netcoreapp3.1\01_Console_Big_O.deps.json
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\01_Console_Big_O\bin\Debug\netcoreapp3.1\01_Console_Big_O.runtimeconfig.json
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\01_Console_Big_O\bin\Debug\netcoreapp3.1\01_Console_Big_O.runtimeconfig.dev.json
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\01_Console_Big_O\bin\Debug\netcoreapp3.1\01_Console_Big_O.dll
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\01_Console_Big_O\bin\Debug\netcoreapp3.1\01_Console_Big_O.pdb
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\01_Console_Big_O\obj\Debug\netcoreapp3.1\01_Console_Big_O.csproj.AssemblyReference.cache
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\01_Console_Big_O\obj\Debug\netcoreapp3.1\01_Console_Big_O.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\01_Console_Big_O\obj\Debug\netcoreapp3.1\01_Console_Big_O.AssemblyInfoInputs.cache
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\01_Console_Big_O\obj\Debug\netcoreapp3.1\01_Console_Big_O.AssemblyInfo.cs
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\01_Console_Big_O\obj\Debug\netcoreapp3.1\01_Console_Big_O.csproj.CoreCompileInputs.cache
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\01_Console_Big_O\obj\Debug\netcoreapp3.1\01_Console_Big_O.dll
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\01_Console_Big_O\obj\Debug\netcoreapp3.1\01_Console_Big_O.pdb
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\01_Console_Big_O\obj\Debug\netcoreapp3.1\01_Console_Big_O.genruntimeconfig.cache
