@@ -7,6 +7,16 @@ Data Structures and Algorithms
   1. Only forward navigation
   2. Each node contains data and reference to the next node
   3. Used to implement Stacks, Queues, and Dynamic Arrays
+  4. Single chain of nodes
+  5. Head pointer
+  6. Tail pointer
+  7. Operations
+      - Add
+      - Remove
+      - Find
+      - Enumerate
+
+Most basic operations - Add to the Front
 
 - Doubly Linked List
 
