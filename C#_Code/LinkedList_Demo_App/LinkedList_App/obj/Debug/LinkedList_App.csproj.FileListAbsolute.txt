@@ -1,0 +1,7 @@
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\LinkedList_Demo_App\LinkedList_App\bin\Debug\LinkedList_App.exe.config
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\LinkedList_Demo_App\LinkedList_App\bin\Debug\LinkedList_App.exe
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\LinkedList_Demo_App\LinkedList_App\bin\Debug\LinkedList_App.pdb
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\LinkedList_Demo_App\LinkedList_App\obj\Debug\LinkedList_App.csproj.AssemblyReference.cache
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\LinkedList_Demo_App\LinkedList_App\obj\Debug\LinkedList_App.csproj.CoreCompileInputs.cache
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\LinkedList_Demo_App\LinkedList_App\obj\Debug\LinkedList_App.exe
+C:\Users\hommy\Documents\Repos\ds_algos\C#_Code\LinkedList_Demo_App\LinkedList_App\obj\Debug\LinkedList_App.pdb
