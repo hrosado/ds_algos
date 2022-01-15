@@ -3,7 +3,10 @@ Data Structures and Algorithms
 
 
 # Linked Lists
-- Singly Linked List
+- Singly Linked List:
+  1. Only forward navigation
+  2. Each node contains data and reference to the next node
+  3. Used to implement Stacks, Queues, and Dynamic Arrays
 
 - Doubly Linked List
 
