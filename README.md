@@ -1,6 +1,15 @@
 # Data Structures and Algorithms Study
 Data Structures and Algorithms
 
+
+# Linked Lists
+- Singly Linked List
+
+- Doubly Linked List
+
+- Circular Linked List
+
+
 # Arrays
 - Single Pointer
 
